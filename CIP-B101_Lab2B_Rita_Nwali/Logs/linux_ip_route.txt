@@ -1,0 +1,1 @@
+MASKED/24 dev eth0 proto kernel scope link src MASKED IP metric 101 
